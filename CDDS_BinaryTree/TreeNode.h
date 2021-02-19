@@ -25,6 +25,3 @@ private:
 	TreeNode* m_left;
 	TreeNode* m_right;
 };
-
-
-
