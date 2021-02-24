@@ -48,7 +48,9 @@ void BinaryTree::insert(int value)
 	//end loop
 
 	//If the value we want to add is less than the value of the parent node, insert the value to the left.
+
 	//Otherwise, insert the value to the right.
+
 }
 
 void BinaryTree::remove(int value)
