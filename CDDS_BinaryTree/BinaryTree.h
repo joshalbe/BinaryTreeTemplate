@@ -25,6 +25,9 @@ private:
 	void draw(TreeNode*, int x, int y, int horizontalSpacing, TreeNode* selected = nullptr);
 
 	TreeNode* m_root = nullptr;
+	TreeNode* m_head;
+	TreeNode* m_tail;
+	int m_nodeCount;
 };
 
 #endif
